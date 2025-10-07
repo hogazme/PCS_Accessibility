@@ -8,7 +8,6 @@ public charging station data.
 - `code/`: Python scripts for computing accessibility.
 - `data/`: Input datasets (CBG boundaries, POIs, PCS, mappings).
 - `environment/`: Dockerfile for reproducible setup.
-- `metadata/`: Metadata from Code Ocean export (optional).
 
 ## Reproducibility
 To build and run the analysis inside a Docker container:
